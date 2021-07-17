@@ -12,7 +12,7 @@ Create a beautiful Flutter UI Games App Home Page With Glass Effect
 
 > Links : for the tutrials Videos
 
-- [Tutrial](https://youtu.be/p7_gqvTK_KI)
+- [Tutorial](https://youtu.be/p7_gqvTK_KI)
 - [My youtube Channel](https://www.youtube.com/channel/UCnUh8WaDvVs1b0CbOv7UaWQ)
 
 ## Plugins
