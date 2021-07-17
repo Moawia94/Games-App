@@ -10,7 +10,7 @@ A new Flutter UI Project on my Youtube Channel .
 
 Create a beautiful Flutter UI Games App Home Page With Glass Effect
 
-> Links : for the tutrials Videos
+> Links : for the Tutorials Videos
 
 - [Tutorial](https://youtu.be/p7_gqvTK_KI)
 - [My youtube Channel](https://www.youtube.com/channel/UCnUh8WaDvVs1b0CbOv7UaWQ)
